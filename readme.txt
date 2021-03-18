@@ -1,2 +1,1 @@
-learn git.
-review git.
+conflict
